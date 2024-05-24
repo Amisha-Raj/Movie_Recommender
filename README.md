@@ -42,10 +42,15 @@ Click the "Recommend" button to get a list of recommended movies along with thei
 
 
 ├── app.py              # Streamlit application
+
 ├── build_model.py      # Script to preprocess data and build the recommendation model
+
 ├── requirements.txt    # List of dependencies
+
 ├── tmdb_5000_movies.csv # Movies dataset
+
 ├── tmdb_5000_credits.csv # Credits dataset
+
 └── README.md           # Project documentation
 # Screenshots
 
