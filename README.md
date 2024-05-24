@@ -59,11 +59,12 @@ Click the "Recommend" button to get a list of recommended movies along with thei
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
-Acknowledgments
+#Acknowledgments
 
 The Movie Database (TMDB) for the datasets.
 Streamlit for providing an excellent framework for building web applications.
-Contact
+
+# Contact
 
 For any questions or suggestions, feel free to contact me at amisharaj268@gmail.com
  
