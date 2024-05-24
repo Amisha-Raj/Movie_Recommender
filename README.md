@@ -52,6 +52,9 @@ Click the "Recommend" button to get a list of recommended movies along with thei
 
 ![Screenshot (343)](https://github.com/Amisha-Raj/Movie_Recommender/assets/108174322/47d0c7aa-3a3c-47d6-9bbf-a6f8b224736b)
 
+![Screenshot (345)](https://github.com/Amisha-Raj/Movie_Recommender/assets/108174322/423c7161-e93e-4a5a-9862-ff65ea72b52e)
+![Screenshot (346)](https://github.com/Amisha-Raj/Movie_Recommender/assets/108174322/73808d12-ad3b-4d67-a322-4d1b11cc41f0)
+
 # Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
