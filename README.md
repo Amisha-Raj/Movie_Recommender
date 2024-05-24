@@ -12,11 +12,17 @@ Interactive Web Application: Built with Streamlit to allow users to input a movi
 # Technologies Used
 
 Python
+
 Pandas, NumPy
+
 Scikit-learn
+
 NLTK
+
 Streamlit
+
 Requests
+
 # Setup Instructions
 
 Clone the repository:
@@ -38,6 +44,7 @@ streamlit run app.py
 Open the Streamlit app in your browser.
 Enter the name of a movie in the input box.
 Click the "Recommend" button to get a list of recommended movies along with their posters.
+
 # Project Structure
 
 
