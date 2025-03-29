@@ -1,4 +1,4 @@
-# Movie_Recommender
+# Analyzer and Recommender
 # Overview
 
 This project is a Movie Recommender System that suggests movies based on content similarity. The system uses natural language processing and machine learning techniques to analyze movie metadata, such as genres, keywords, cast, and crew, to provide personalized recommendations.
